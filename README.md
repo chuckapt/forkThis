@@ -1,27 +1,26 @@
-# Project Title
+# Charlie's ForkThis Fork
 
-## Forkthis Repo for Practice
+## Forkthis Repo for Charlie Practice
 
-### Write your author name here. eg. By Nicole
+### by Charlie Vaughan-Fowler
 
-### Description
+#### Description
 
-Create a description and fill it in here.
+In West Philadephia born and raised
 
-## Languages used
+### Languages
 
-What languages were used for this repo:
-List them
+HTML, Markdown, CSS
 
 ### Known Bugs
 
-Are there any? If so what are they?
+HELL NO
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+### Acknowledgments
 
 * Hat tip to anyone who's code was used
 * Inspiration
